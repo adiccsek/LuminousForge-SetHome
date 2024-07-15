@@ -1,0 +1,16 @@
+name: LuSetHome
+version: '1.0-SNAPSHOT'
+main: me.notshiya.lusethome.LuSetHome
+api-version: '1.20'
+author: notshiya
+description: A simple plugin that allows players to set their home and teleport to it.
+commands:
+  sethome:
+    description: Set your home.
+    usage: /sethome
+  home:
+    description: Teleport to your home.
+    usage: /home
+  deletehome:
+    description: Delete your home.
+    usage: /delhome

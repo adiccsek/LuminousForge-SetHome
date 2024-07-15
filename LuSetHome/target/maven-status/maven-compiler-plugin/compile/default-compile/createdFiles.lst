@@ -1,0 +1,5 @@
+me\notshiya\lusethome\commands\setHomeCommand.class
+me\notshiya\lusethome\PlaceholderUtil.class
+me\notshiya\lusethome\commands\DeleteHome.class
+me\notshiya\lusethome\commands\TeleportToHome.class
+me\notshiya\lusethome\LuSetHome.class

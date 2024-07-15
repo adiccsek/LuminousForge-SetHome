@@ -1,0 +1,13 @@
+# Configuration file for the Home plugin.
+
+enable_sethome: true
+enable_home: true
+
+messages:
+  home_set: 'Home set at X: %x%, Y: %y%, Z: %z% in %world% world.'
+  home_teleport: Teleported to home.
+  no_home: You don't have a home set.
+  world_not_exist: The world your home is set in no longer exists.
+  cooldown: You must wait %seconds% seconds before using this effect again.
+  home_throw_error: Could not teleport to home. Please try again.
+  delete_home: Home deleted.
